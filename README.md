@@ -3,10 +3,6 @@
 # Added here for the commit testing by inho 
 # Adding new line to test push and review 14/July/2026 by Inho
 
-#  Adding this line to test PR. by Inho 5sep2026
-
-
-
 In this series, we’ll go over creating real software with AI — and I’ll teach it as if you have zero coding experience.  
 > ❓ Did you download this code and run into errors? [Watch this troubleshooting video](https://youtu.be/ByRf8fsWE0Q)
 
