@@ -1,7 +1,7 @@
 # How to Create an Easy App with No Coding Experience 🚀
-
+# Add new line her for testing 5/Sep/2026 by Inho
 # Added here for the commit testing by inho 
-
+# Adding new line to test push and review 14/July/2026 by Inho
 
 In this series, we’ll go over creating real software with AI — and I’ll teach it as if you have zero coding experience.  
 > ❓ Did you download this code and run into errors? [Watch this troubleshooting video](https://youtu.be/ByRf8fsWE0Q)
